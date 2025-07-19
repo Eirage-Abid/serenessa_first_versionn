@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753026110692",
+    "project_id": "serenessa-5242a",
+    "storage_bucket": "serenessa-5242a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753026110692:android:bf439d1b691e2da241c8f1",
+        "android_client_info": {
+          "package_name": "com.example.serenessa_first_version"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1wv2eOUpMeCS76OM8yNLpdVUTfbGnRro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

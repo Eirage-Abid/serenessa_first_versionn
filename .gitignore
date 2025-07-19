@@ -1,0 +1,44 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+.idea/
+.macos/
+.metadata
+android/.gradle/
+android/local.properties
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code (if you switch to it)
+.vscode/
+
+# iOS/macOS
+ios/Flutter/.generated/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework/
+macos/Flutter/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Output files
+*.apk
+*.aab
+
+# Logs
+*.log
+
+# Crashlytics
+android/app/crashlytics-build.properties
