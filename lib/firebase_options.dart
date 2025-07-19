@@ -19,6 +19,7 @@ class DefaultFirebaseOptions {
     if (kIsWeb) {
       return web;
       //Added to github
+      //added some changes
     }
     switch (defaultTargetPlatform) {
       case TargetPlatform.android:
