@@ -61,14 +61,22 @@ flutter run
 # Screenshots
 
 ![WhatsApp Image 2025-09-07 at 21 20 59_b4b092e8](https://github.com/user-attachments/assets/144a40b7-aaab-4ed2-9f5e-ae6519873c8d)
-
 ![WhatsApp Image 2025-09-07 at 21 22 20_e6701560](https://github.com/user-attachments/assets/72c49489-a0b9-4a5a-ab71-6760def59f9b)
-
 ![WhatsApp Image 2025-09-07 at 21 25 05_830c4340](https://github.com/user-attachments/assets/43068717-00ac-4d5b-a5c3-051aebfdce1e)
-
 ![WhatsApp Image 2025-09-07 at 21 20 58_5194ce53](https://github.com/user-attachments/assets/258875fa-4643-425d-8560-91332a36cb11)
-
 ![WhatsApp Image 2025-09-07 at 21 20 56_d33f5011](https://github.com/user-attachments/assets/68c7bc34-63af-4154-bf0b-66946f3d6d01)
+
+# Future Improvements
+
+AI-based unsafe zones prediction.
+
+Incorporate government help lines in Emergency Contacts
+
+Multi-language support.
+
+License
+
+MIT License © 2025 Serenessa Team
 
 
 
