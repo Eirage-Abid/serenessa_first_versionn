@@ -1,5 +1,6 @@
 # Serenessa – Women's Safety Application
 Serenessa is a women’s safety mobile application built with Flutter. It aims to empower women by providing real-time protection, safe zone monitoring, community-driven awareness, and secure communication with emergency contacts.
+<img width="1920" height="1080" alt="Serenessa_showcase_readme" src="https://github.com/user-attachments/assets/562616d3-5f23-42e7-959f-2a2efc9e530d" />
 
 # Features
 
@@ -17,6 +18,20 @@ Serenessa is a women’s safety mobile application built with Flutter. It aims t
 
 📚 Help & FAQ Section – Quick access to guidance and support.
 
+# Tech Stack
+
+Frontend: Flutter (Dart)
+
+Backend:
+
+Firebase  – for data storage and management
+
+Node.js (Vercel) – for handling notifications and backend services
+
+Maps & Location: Google Maps API
+
+Authentication: Firebase Auth (if used)
+
 # Project Architecture
 
 State Management: (e.g., Provider / Riverpod / BLoC – whichever you used)
@@ -33,7 +48,7 @@ Folder Structure:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/serenessa.git
+https://github.com/Eirage-Abid/serenessa_first_versionn.git
 
 Install dependencies:
 
@@ -42,3 +57,8 @@ flutter pub get
 Run the app:
 
 flutter run
+
+# Screenshots
+![WhatsApp Image 2025-09-07 at 21 20 58_5194ce53](https://github.com/user-attachments/assets/b4d347b5-ea68-4d5a-8df5-cab059fdef66)
+
+
