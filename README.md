@@ -72,7 +72,7 @@ Incorporate government help lines in Emergency Contacts
 
 Multi-language support.
 
-License
+# License
 
 MIT License © 2025 Serenessa Team
 
