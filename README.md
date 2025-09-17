@@ -59,6 +59,7 @@ Run the app:
 flutter run
 
 # Screenshots
+<img width="1920" height="1080" alt="Serenessa_showcase_readme" src="https://github.com/user-attachments/assets/562616d3-5f23-42e7-959f-2a2efc9e530d" />
 
 <img src="screenshots/home.png" alt="Home Screen" width="300"/>
 <img src="screenshots/login.png" alt="Login Screen" width="300"/>
@@ -66,11 +67,11 @@ flutter run
 
 # Future Improvements
 
-AI-based unsafe zones prediction.
+🧠 AI-based Unsafe Zones Prediction – Predict and highlight potentially risky areas using AI.
 
-Incorporate government help lines in Emergency Contacts
+📞 Government Helplines – Incorporate official emergency numbers into Emergency Contacts.
 
-Multi-language support.
+🌍 Multi-language Support – Enable users to access the app in multiple languages.
 
 # License
 
